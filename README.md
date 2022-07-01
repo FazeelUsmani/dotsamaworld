@@ -14,6 +14,7 @@ Thank you Bevy and all your plugin ecosystem for making this project a real joy 
 
 ![Image](https://github.com/gilescope/dotsamaworld-visual-history/blob/main/chapter2/Screenshot%20from%202022-05-08%2010-03-11.png?raw=true)
 
+
 ## What am I looking at?
 
 Pictures are stored in a separate repo to not bloat this one: 
